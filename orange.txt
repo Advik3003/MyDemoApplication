@@ -1,2 +1,5 @@
 This is orange
 It's file name is orange also.
+
+stage
+1.This line editing in stage branch
